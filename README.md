@@ -1,7 +1,7 @@
 ## Applicant Name: Geoffrey Gordon Ashbrook
 ### Position:       Data Science Intern
 ### Company:        Shopify
-### Date:           2020.09.02
+### Date:           2020.09.03
 ### Source:         Lambda School
 ### Application Page: [Link Here](https://jobs.lever.co/shopify/826aebdc-5015-411b-a38f-96d8af52d263/apply)  
 ### Online Version of All Application Materials Doc: [Link Here](https://docs.google.com/document/d/1IiMkQkQO375K296Wn61dwXep789bFXa4Oe-im7jLKek/edit?usp=sharing)  
