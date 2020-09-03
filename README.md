@@ -6,6 +6,7 @@
 ### Application Page: [Link Here](https://jobs.lever.co/shopify/826aebdc-5015-411b-a38f-96d8af52d263/apply)  
 ### Online Version of All My Application Materials: [Github PDF Here](https://github.com/lineality/sales_data_challenge_gg_ashbrook/blob/master/Shopify%20Application%20Materials%20G.G.Ashbrook%20v15.pdf)  / [Online GoogleDoc Here](https://colab.research.google.com/drive/1wjsghDJMOeADTvipP-57Ey3BSmEj2Ps3?usp=sharing)
 
+
 ## Contents:
 - Two Essay Questions [PDF Here](https://github.com/lineality/sales_data_challenge_gg_ashbrook/blob/master/Shopify%20Application%20Materials%20G.G.Ashbrook%20v15.pdf) / [Online Here](https://colab.research.google.com/drive/1wjsghDJMOeADTvipP-57Ey3BSmEj2Ps3?usp=sharing)
 - Two Technical Challenges
@@ -14,4 +15,3 @@
 		- [Full Github Notebook Here](https://github.com/lineality/sales_data_challenge_gg_ashbrook/blob/master/AOV_analysis_G_G_Ashbrook_v26.ipynb) / [Online Colab Notebook Here](https://colab.research.google.com/drive/1wjsghDJMOeADTvipP-57Ey3BSmEj2Ps3?usp=sharing)
 	- SQL Queries and Answers [PDF Here](https://github.com/lineality/sales_data_challenge_gg_ashbrook/blob/master/Shopify%20Application%20Materials%20G.G.Ashbrook%20v15.pdf) / [Online Here](https://colab.research.google.com/drive/1wjsghDJMOeADTvipP-57Ey3BSmEj2Ps3?usp=sharing)
 - Cover Letter [PDF Here](https://github.com/lineality/sales_data_challenge_gg_ashbrook/blob/master/Shopify%20Application%20Materials%20G.G.Ashbrook%20v15.pdf)  / [Online Here](https://colab.research.google.com/drive/1wjsghDJMOeADTvipP-57Ey3BSmEj2Ps3?usp=sharing)
-
